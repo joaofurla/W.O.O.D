@@ -160,7 +160,7 @@ h1,h2,h3,h4,h5,h6{
   font-size: 2rem;
 }
 
-/* Navigation Bar */
+/* Barra de navegação */
 #main-nav{
   background: #fff;
   position: sticky;
@@ -174,7 +174,8 @@ h1,h2,h3,h4,h5,h6{
   align-items: center;
 }
 #main-nav .logo{
-  width: 180px;
+  width: 500px;
+  height: 250px;
 }
 #main-nav ul{
   justify-self: end;
@@ -199,7 +200,7 @@ h1,h2,h3,h4,h5,h6{
   margin-right: 0.5rem;
 }
 
-/* Showcase */
+/* Noticia principal */
 #showcase{
   color: #fff;
   background: var(--dark-color);
@@ -230,7 +231,7 @@ h1,h2,h3,h4,h5,h6{
   margin-bottom: 1rem;
 }
 
-/* Articles */
+/* artigos */
 #home-articles .articles-container{
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -258,13 +259,14 @@ h1,h2,h3,h4,h5,h6{
   margin-top: 0.4rem;
 }
 
-/* Footer */
+/* Rodapé */
 #main-footer{
   background: var(--dark-color);
   color: #fff;
 }
 #main-footer img{
-  width: 150px;
+  width: 300px;
+  height: 150px;
 }
 #main-footer a{
   color: #fff;
