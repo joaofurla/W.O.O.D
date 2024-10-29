@@ -166,6 +166,10 @@ h1,h2,h3,h4,h5,h6{
   position: sticky;
   top: 0;
   z-index: 2;
+  height: 180px;
+}
+#main-nav .rolagem{
+  background-color: #fff;
 }
 #main-nav .container{
   display: grid;
