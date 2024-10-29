@@ -178,8 +178,7 @@ h1,h2,h3,h4,h5,h6{
   align-items: center;
 }
 #main-nav .logo{
-  width: 500px;
-  height: 250px;
+  width: 150px;
 }
 #main-nav ul{
   justify-self: end;
